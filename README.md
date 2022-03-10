@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @davidonski. 
+-    I'm a 26 years old programmer, from Andria, Italy, and I have a bachelor degree in computer science at University of Bari.
+- 👀 I’m interested on learning new programming language and share my self-taught programs and listen your feedback.
+- 🌱 I’m currently learning node.js, MongoDB e Typescript.
+- 📫 How to reach me @davidonski on Instagram.
